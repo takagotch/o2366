@@ -2,6 +2,7 @@ title:        Tkvtv
 tagline:      'Takagotch, a Jekyll theme'
 description:  'An elegant open source and mobile first theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:         https://takagotch.github.io/page29
+baserurl:    https://takagotch.github.io/page29
 version:      1.1.1
 author:
   name:       'Takashi Yoshioka'
